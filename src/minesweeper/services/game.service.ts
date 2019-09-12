@@ -67,6 +67,7 @@ export class GameService {
           }
         }
       }
+      this.board.emoji = "🥳";
       console.log("YOU WIN!");
     }
   }
@@ -78,7 +79,7 @@ export class GameService {
         this.board.grid.cells[i][j].flagged = false;
       }
     }
-
+    this.board.emoji = "💩";
     console.log("YOU LOSE!");
   }
 
@@ -94,6 +95,7 @@ export class GameService {
 
   private inizializeGame(mineNumber: number) {
     this.setmines(mineNumber);
+    this.board.emoji = "😊";
 
     // Pre-count the numer of neighbours per cell
     for (let i = 0; i < this.board.rows; i++) {

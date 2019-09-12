@@ -10,6 +10,7 @@ import { Board } from '../../../models/board';
 export class ScorepanelComponent implements OnInit {
 
   @Input() board: Board;
+  emoji: string;
   
   constructor(private gameService: GameService) { }
 

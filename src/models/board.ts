@@ -11,6 +11,7 @@ export class Board {
     mines: number;
 
     grid: Grid;
+    emoji: string;
 
     constructor(rows: number, cols: number, mines: number) {
         this.rows = rows;
