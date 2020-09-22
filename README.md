@@ -1,6 +1,6 @@
 # PoopSweeper
 
-A little browser game that I made to play with Angular while I was studing it. 
+A little browser game that I made to play with the Angular Framework while I was studing it. 
 
 It is like minesweeper, but I am a pacifist, so... poops instead of bombs.
 
