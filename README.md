@@ -1,8 +1,8 @@
 ![Deploy 💩](https://github.com/michelefenu/poopsweeper/workflows/Deploy%20%F0%9F%92%A9/badge.svg)
 
-# PoopSweeper 
+# :poop: PoopSweeper
 
-A little browser game that I made to play with the Angular Framework while I was studing it. 
+A browser game that I made to play with the Angular Framework while I was studing it. 
 
 It is like minesweeper, but I am a pacifist, so... poops instead of bombs.
 
