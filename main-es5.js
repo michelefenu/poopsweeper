@@ -17,7 +17,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       module.exports = __webpack_require__(
-      /*! /home/runner/work/poop-sweeper/poop-sweeper/src/main.ts */
+      /*! /home/runner/work/poopsweeper/poopsweeper/src/main.ts */
       "zUnb");
       /***/
     },

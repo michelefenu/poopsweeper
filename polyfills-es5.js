@@ -466,7 +466,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       __webpack_require__(
-      /*! /home/runner/work/poop-sweeper/poop-sweeper/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
+      /*! /home/runner/work/poopsweeper/poopsweeper/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
       "mRIq");
 
       __webpack_require__(
@@ -474,7 +474,7 @@
       "R0gw");
 
       module.exports = __webpack_require__(
-      /*! /home/runner/work/poop-sweeper/poop-sweeper/src/polyfills.ts */
+      /*! /home/runner/work/poopsweeper/poopsweeper/src/polyfills.ts */
       "hN/g");
       /***/
     },

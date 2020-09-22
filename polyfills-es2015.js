@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/runner/work/poop-sweeper/poop-sweeper/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/runner/work/poopsweeper/poopsweeper/src/polyfills.ts */"hN/g");
 
 
 /***/ }),

@@ -58,7 +58,7 @@ ___CSS_LOADER_EXPORT___.push([module.i, "/* You can add global styles to this fi
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/runner/work/poop-sweeper/poop-sweeper/src/styles.scss */"+EN/");
+module.exports = __webpack_require__(/*! /home/runner/work/poopsweeper/poopsweeper/src/styles.scss */"+EN/");
 
 
 /***/ }),
