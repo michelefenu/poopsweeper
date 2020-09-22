@@ -1,4 +1,4 @@
-![Deploy 💩](https://github.com/michelefenu/poopsweeper/workflows/Deploy%20%F0%9F%92%A9/badge.svg)
+![Deploy](https://github.com/michelefenu/poopsweeper/workflows/Deploy/badge.svg)
 
 # :poop: PoopSweeper
 
