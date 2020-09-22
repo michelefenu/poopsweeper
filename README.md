@@ -12,7 +12,7 @@ When you click on a cell, the cell will be uncovered revealing either a poop or 
 - **Left click**: clear cell
 - **Right click**: flag cell to prevent clicking by mistake
 
-###Important note** 
+### Important note
 In the original minesweeper game the first click will never be a mine. But with poops, we can take the risk.
 
 ![Gameplay example](/assets/gameplay-demo.gif)
