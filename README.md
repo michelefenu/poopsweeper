@@ -1,3 +1,5 @@
+![Deploy 💩](https://github.com/michelefenu/poopsweeper/workflows/Deploy%20%F0%9F%92%A9/badge.svg)
+
 # PoopSweeper 
 
 A little browser game that I made to play with the Angular Framework while I was studing it. 
