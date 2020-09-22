@@ -6,6 +6,8 @@ A browser game that I made to play with the Angular Framework while I was studin
 
 It is like minesweeper, but I am a pacifist, so... poops instead of bombs.
 
+Online Demo: [https://michelefenu.github.io/poopsweeper/](https://michelefenu.github.io/poopsweeper/)
+
 ### Gameplay and Commands
 The objective of the game is the same of the original minesweeper: clearing the board avoiding the poops. 
 
