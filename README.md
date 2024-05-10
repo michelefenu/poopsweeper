@@ -2,21 +2,47 @@
 
 # :poop: PoopSweeper
 
-A browser game that I made to play with the Angular Framework while I was studing it. 
+PoopSweeper is a playful twist on the classic game of Minesweeper, built with the Angular framework. As a nod to pacifism, the usual mines are replaced with cartoonish poop emojis. 
 
-It is like minesweeper, but I am a pacifist, so... poops instead of bombs.
+This project was created as a part of my learning journey with Angular.
 
-Online Demo: [https://michelefenu.github.io/poopsweeper/](https://michelefenu.github.io/poopsweeper/)
+Live Demo: [https://michelefenu.github.io/poopsweeper/](https://michelefenu.github.io/poopsweeper/)
 
 ### Gameplay and Commands
-The objective of the game is the same of the original minesweeper: clearing the board avoiding the poops. 
+In PoopSweeper, the goal remains similar to traditional Minesweeper: clear the board without triggering any poops. Each uncovered cell will either display a poop or the number of adjacent poops, aiding in safe navigation. 
 
-When you click on a cell, the cell will be uncovered revealing either a poop or the number of poops adjacent to it.
+- **Left click**: uncover a cell
+- **Right click**: place a flag on a cell to mark a suspected poop, preventing accidental uncovering.
 
-- **Left click**: clear cell
-- **Right click**: flag cell to prevent clicking by mistake
 
 ![Gameplay example](/assets/gameplay-demo.gif)
 
-#### Important note
-In the original minesweeper game the first click will never be a mine. But with poops, we can take the risk.
+#### Note
+Unlike the traditional Minesweeper, PoopSweeper starts with a bit of a twist — your first click might just uncover a poop! This adds an extra layer of challenge right from the start.
+
+### Local Setup
+To set up PoopSweeper locally, follow these steps:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/michelefenu/poopsweeper.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd poopsweeper
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4. Serve the application:
+```bash
+ng serve
+```
+
+5. Open your browser and visit http://localhost:4200/ to start playing!
+
+> You can change the board size and the default number of poops in the [app.component.ts](https://github.com/michelefenu/poopsweeper/blob/master/src/app/app.component.ts).
